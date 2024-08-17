@@ -68,7 +68,7 @@ void main()
   printf("Space complexity = %d\n",((6*4)+4*n));
   t++;
   t++;
-  printf("Time complexity = %d",t);
+  printf("Time complexity = %d\n",t);
  }   
 
  
