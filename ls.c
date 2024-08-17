@@ -48,5 +48,5 @@ void main()
   printf("Space complexity = %d\n",((5*4)+4*n));
   c++;
   c++;
-  printf("Time complexity = %d",c);
+  printf("Time complexity = %d\n",c);
  }
