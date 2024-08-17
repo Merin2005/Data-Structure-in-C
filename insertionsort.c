@@ -46,7 +46,7 @@ void main()
    t++;
   }
   t++;
-  printf("\nSorted array \n");
+  printf("Sorted array \n");
   t++;
   for (i=0;i<n;i++)
   {
@@ -60,5 +60,5 @@ void main()
   printf("Space complexity = %d\n",((5*4)+4*n));
   t++;
   t++;
-  printf("Time complexity = %d",t);
+  printf("Time complexity = %d\n",t);
  }   
