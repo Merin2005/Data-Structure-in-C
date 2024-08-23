@@ -23,9 +23,12 @@ void main()
         c++;
       if (a[j]> a[j+1])
       {
-         temp= a[j];c++;
-        a[j]= a[j+1];c++;
-        a[j+1] =temp;c++;
+        temp= a[j];
+        c++;
+        a[j]= a[j+1];
+        c++;
+        a[j+1] =temp;
+        c++;
       }
     }
   }
