@@ -53,16 +53,12 @@ void main()
    }
   }
   t++;
-  
   if(flag==0)
   {
    printf("Element is not found");
    t++;
    t++;
   }
-  
-  
-  
   printf("\nSpace complexity = %d\n",((8*4)+4*n));
   t++;
   t++;
