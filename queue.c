@@ -20,7 +20,7 @@ int main()
             break;
     case 3: display();
 	    break;
-    case 4: printf("Exited from program");
+    case 4: printf("Exited from program\n");
             break;
    }
   }
