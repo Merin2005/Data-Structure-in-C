@@ -16,7 +16,7 @@ void main()
  {
     printf("Enter the coefficient term:\n");
     scanf("%d",&x[i].coeff);
-    printf("Enter the exponent term\n");
+    printf("Enter the exponent term:\n");
     scanf("%d",&x[i].expo);
  }
  printf("The polynomial is :");
