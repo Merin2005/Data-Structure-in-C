@@ -43,7 +43,7 @@ int main()
     printf("Enter number of elements: ");
     scanf("%d",&x);
     int A[x];
-    printf("Enter your elements: ");
+    printf("Enter the elements: ");
     for (int i = 0; i < x; i++) 
     {
         scanf("%d", &A[i]);
